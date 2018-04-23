@@ -1,22 +1,4 @@
-<!----- Conversion time: 1.247 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* GD2md-html version 1.0β11
-* Mon Apr 23 2018 12:48:03 GMT-0700 (PDT)
-* Source doc: https://docs.google.com/a/utk.edu/open?id=1e8HEhXHyBT7SwWe6J8wUO2XckuTSlQUJ_2QZZgDh5HY
------>
-
-
-https://github.com/DonRichards/**FECT**
+https://github.com/DonRichards/FECT
 
 **F**ront-**E**nd **C**oding **T**est
 
