@@ -14,7 +14,7 @@ You will need to have a Github account to complete this.
 *   Make the necessary modifications to best resemble the expected outcome from the provided files.
 *   All changes are expected to be pushed you your Github repo so we can review prior to the interview.
 *   Following the design instructions as close as possible
-    *    Change the list view of Figure Image + Figure Title to a grid of figures with titles hidden until a haver event on each figure.
+    *    Change the list view of Figure Image + Figure Title to a grid of figures with titles hidden until a hover event on each figure.
     *    Code the drop down menu to hide everything except the requested figure group.
 *   Follow the **WAI-ARIA 1.0** Standards as much as possible
     *   The tab index should go from left to right then down to the next row.
@@ -76,4 +76,4 @@ These files are provided as a skeleton files needed to complete this but you are
 #### Please Note
 If some part of this isn't clear or outside your expertise, move forward to the next part and make a note for the later in-person discussion. We aren't expecting you to know everything or be able to complete this in its entirety within the limited time frame. Please use your own professional discretion when deciding what parts to focus on. _hint hint_ time management
 
-Although having a Github repo, or completion of this is not an absolute requirement and won't eliminate you for consideration we urge to to please email us a link to your repo a least 24 hours prior to your in-person interview.
+Although ing a Github repo, or completion of this is not an absolute requirement and won't eliminate you for consideration we urge to to please email us a link to your repo a least 24 hours prior to your in-person interview.
