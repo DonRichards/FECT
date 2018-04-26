@@ -3,30 +3,48 @@ https://github.com/DonRichards/FECT
 **F**ront-**E**nd **C**oding **T**est
 
 
+## About the Exercise
+
+The following exercise will be used to help evaluate candidates for [UT Libaries Digital Initiative's]() vacant front end developer position. This exercise is intended to only take a few hours to complete.
+
+If any parts of the exercise are unclear or outside your expertise, feel free to  move forward to the next part. Please use your own professional discretion when deciding what parts of the exercise to focus on.
+
+While forking to GitHub is not required, please add your commits along with the current Git repository to some online repository service and share it with the search committee at least 24 hours in advance of your interview.  If you need to make the repository private, please contact us and we will provide you with our account information so we can be given read access. 
+
 ## Scenario
 
-  You have been asked by the committee to follow the marketing team's design proposal to modify an existing the FECT web page. This page shows a list of digital collections. Each collection object we will call a __figure__. For a number of reasons you are asked not to modify index.html's structure or the order in which each figure is found in the html. You are allowed to add as much stuff as needed. A committee has chosen to change this page from a list view to a new grid layout. The new design should be responsive to width. When the mouse hovers over a figure the title should show and hide when mouse is no longer hovering over the figure. The drop down menu will allow you to filter the DOM to only show the desired group of figures for that group.
+You have been asked by the Libraries' Web Interface Group to follow the marketing team's design proposal to modify an existing web page that shows a list of digital collections. Each collection object is represented by a __figure__. To do this, you are not allowed to modify the index.html page's structure or the order in which each figure is found in the html. Otherwise, you can add or modify anything you need. The committee has given you the following list of action items:
+
+1. Convert the webpage from a list view to a grid layout 
+2. Ensure the new design is responsive in terms of width 
+3. Add a feature to make the figure's title display when a user's mouse hovers over it
+4. Ensure the feature makes so the title no longer displays when the mouse is no longer hovering over the figure
+5. Add functionality to the drop down menu to allow you to filter the DOM to only show figures associated with the selected group.
 
 
 ### How to start
 You will need to have a Github account to complete this.
-*   Fork this repo to your profile (USERNAME/FECT)
-*   Make the necessary modifications to best resemble the expected outcome from the provided files.
-*   All changes are expected to be pushed you your Github repo so we can review prior to the interview.
-*   Following the design instructions as close as possible
-    *    Change the list view of Figure Image + Figure Title to a grid of figures with titles hidden until a hover event on each figure.
-    *    Code the drop down menu to hide everything except the requested figure group.
-*   Follow the **WAI-ARIA 1.0** Standards as much as possible
+
+*   Fork this repo to your profile (USERNAME/FECT).  
+    * If privacy is a concern, feel free to push the existing project to a new repository in [BitBucket](https://bitbucket.org/) and share the link with the search committee. 
+*   Make any necessary changes to implement the expected outcome
+*   Push all commits to your remote repository prior to your interview
+*   Follow the design instructions as close as possible
+    *    Change the list view to a grid of figures with titles hidden until a hover event is executed.
+    *    Modify the drop down menu to hide everything except figures associated with the group.
+*   Follow the **WAI-ARIA 1.0** standards as much as possible
     *   The tab index should go from left to right then down to the next row.
-*   Follow the wireframe provided by the marketing department
+*   Use the wireframe provided by the marketing department
 
 ### Files Provided
 
-These files are provided as a skeleton files needed to complete this but you are not limited to these. You can create files however works best for you. You may or may not need all of these to complete this.
+These skeleton files are provided:
 
 *   index.js
 *   custom.css
 *   script.js
+
+ You are not limited to these. Feel free to create any additional files you may need. 
 
 
 #### Collection Groups Table
@@ -64,16 +82,15 @@ These files are provided as a skeleton files needed to complete this but you are
 
 
 
-#### What are we looking for and not looking for?
+#### What are we looking for 
 
-*   We are looking to see how well you follow instructions with a real word set of instructions.
-*   Keeping project within the limits and needs of the request.
-*   Display techniques for adding accessibility standards.
-*   Looking to see a grid view with up to 4 figures across
-*   The figures or any part of it are NOT expected to link anywhere. It's just for display.
+* Attention to detail and ability to follow written instructions
+* Ability to keep project within the limits and needs of the request
+* Ability to understand and implement basic accessibility standards
+* Ability to create a grid view with up to 4 figures across
+
+#### Out of scope / Not necessary
+
+* The figures or any part of your design are NOT expected to link to any existing collections. The empty anchors are just for display.
 
 
-#### Please Note
-If some part of this isn't clear or outside your expertise, move forward to the next part and make a note for the later in-person discussion. We aren't expecting you to know everything or be able to complete this in its entirety within the limited time frame. Please use your own professional discretion when deciding what parts to focus on. _hint hint_ time management
-
-Although ing a Github repo, or completion of this is not an absolute requirement and won't eliminate you for consideration we urge to to please email us a link to your repo a least 24 hours prior to your in-person interview.
