@@ -24,6 +24,7 @@ You have been asked by the Libraries' Web Interface Group to follow the marketin
 
 ### How to start
 You will need to have a Github account to complete this.
+
 *   Fork this repo to your profile (USERNAME/FECT).  
     * If privacy is a concern, feel free to push the existing project to a new repository in [BitBucket](https://bitbucket.org/) and share the link with the search committee. 
 *   Make any necessary changes to implement the expected outcome
