@@ -92,4 +92,8 @@ These skeleton files are provided:
 
 ## Final Product
 Final product should roughly look and behavior like this.
-![Behavior](https://i.imgur.com/PPMFZ84.gif)
+![Behavior](PPMFZ84.gif)
+
+[High Resolution Gif can be found here](https://i.imgur.com/PPMFZ84.gif)
+
+Video is in the repo as [PPMFZ84.mp4](PPMFZ84.mp4)
