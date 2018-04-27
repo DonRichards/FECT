@@ -5,11 +5,11 @@ https://github.com/DonRichards/FECT
 
 ## About the Exercise
 
-The following exercise will be used to help evaluate candidates for [UT Libaries Digital Initiative's]() vacant front end developer position. This exercise is intended to only take a few hours to complete.
+The following exercise will be used to help evaluate candidates for [UT Libaries Digital Initiative's](http://github.com/utkdigitalinitiatives/) vacant front end developer position. This exercise is intended to only take a few hours to complete.
 
 If any parts of the exercise are unclear or outside your expertise, feel free to  move forward to the next part. Please use your own professional discretion when deciding what parts of the exercise to focus on.
 
-While forking to GitHub is not required, please add your commits along with the current Git repository to some online repository service and share it with the search committee at least 24 hours in advance of your interview.  If you need to make the repository private, please contact us and we will provide you with our account information so we can be given read access. 
+While forking to GitHub is not required, please add your commits along with the current Git repository's history to some online repository service and share it with the search committee at least 24 hours in advance of your interview.  If you need to make the repository private, please contact us and we will provide you with any information you need so we can have read access 
 
 ## Scenario
 
@@ -18,15 +18,15 @@ You have been asked by the Libraries' Web Interface Group to follow the marketin
 1. Convert the webpage from a list view to a grid layout 
 2. Ensure the new design is responsive in terms of width 
 3. Add a feature to make the figure's title display when a user's mouse hovers over it
-4. Ensure the feature makes so the title no longer displays when the mouse is no longer hovering over the figure
+4. Ensure the feature makes it so the title no longer displays when the mouse is no longer hovering over the figure
 5. Add functionality to the drop down menu to allow you to filter the DOM to only show figures associated with the selected group.
 
 
 ### How to start
-You will need to have a Github account to complete this.
+You will need to have a Github account (or some other Remote repository service account) to complete this.
 
 *   Fork this repo to your profile (USERNAME/FECT).  
-    * If privacy is a concern, feel free to push the existing project to a new repository in [BitBucket](https://bitbucket.org/) and share the link with the search committee. 
+    * If privacy is a concern, feel free to push the existing project to a new repository in [BitBucket](https://bitbucket.org/) and share the link with the search committee. If you make the repo private, let us know and we will provide you with a way to give us read access. 
 *   Make any necessary changes to implement the expected outcome
 *   Push all commits to your remote repository prior to your interview
 *   Follow the design instructions as close as possible
@@ -34,7 +34,7 @@ You will need to have a Github account to complete this.
     *    Modify the drop down menu to hide everything except figures associated with the group.
 *   Follow the **WAI-ARIA 1.0** standards as much as possible
     *   The tab index should go from left to right then down to the next row.
-*   Use the wireframe provided by the marketing department
+*   Use the [wireframe]() provided by the marketing department
 
 ### Files Provided
 
